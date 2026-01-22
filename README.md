@@ -1,5 +1,32 @@
-# Vue 3 + TypeScript + Vite
+# 🛒 Checkout Tienda Online (Vue 3 + TS)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Práctica 5.1 - Desarrollo de un proceso de compra completo (Wizard) con validaciones robustas y testing.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Características
+* **Wizard de 4 pasos:** Facturación, Envío, Pago y Resumen.
+* **Validaciones:** VeeValidate + Yup (DNI, Tarjetas Luhn, CP asíncrono).
+* **Persistencia:** Guarda el progreso en `localStorage`.
+* **Testing:** Vitest con cobertura >80%.
+* **Documentación:** Generada con VuePress.
+
+## 🛠️ Instalación y Uso
+
+1. **Instalar dependencias:**
+   ```bash
+   npm install
+
+2. **Ejecutar en desarrollo:**
+    ```bash
+   npm run dev
+
+3. **Ejecutar tests:**
+    ```bash
+   npm run test
+
+4. **Ver cobertura:**
+    ```bash
+   npm run coverage
+
+5. **Ver documentación:**
+    ```bash
+   npm run docs:dev
