@@ -14,19 +14,15 @@ Práctica 5.1 - Desarrollo de un proceso de compra completo (Wizard) con validac
 1. **Instalar dependencias:**
    ```bash
    npm install
-
 2. **Ejecutar en desarrollo:**
     ```bash
    npm run dev
-
 3. **Ejecutar tests:**
     ```bash
    npm run test
-
 4. **Ver cobertura:**
     ```bash
    npm run coverage
-
 5. **Ver documentación:**
     ```bash
    npm run docs:dev
