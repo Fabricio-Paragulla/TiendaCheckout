@@ -27,3 +27,7 @@ Este proyecto implementa un sistema de checkout completo siguiendo las especific
 - ✅ Validación de DNI, Tarjetas (Luhn) y CP (Asíncrono)
 - ✅ Tests con cobertura >80%
 - ✅ Documentación con VuePress
+
+## 🚀 Demo Funcional
+Puedes probar la aplicación funcionando en el siguiente enlace:
+👉 [Ver Demo Desplegada](https://tienda-checkout-vert.vercel.app)
